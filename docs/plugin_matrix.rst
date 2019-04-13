@@ -243,10 +243,7 @@ twitch                  twitch.tv            Yes   Yes   Possible to authenticat
                                                          subscription streams.
 ustreamtv               ustream.tv           Yes   Yes
 ustvnow                 ustvnow.com          Yes   --    All streams require an account, some streams require a subscription.
-vaughnlive              - vaughnlive.tv      Yes   --
-                        - breakers.tv
-                        - instagib.tv
-                        - vapers.tv
+vaughnlive              - vaughnlive.tv      Yes   --                      
 viasat                  - juicyplay.dk       Yes   Yes   Streams may be geo-restricted.
                         - play.nova.bg
                         - skaties.lv
